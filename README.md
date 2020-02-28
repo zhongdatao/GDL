@@ -76,15 +76,15 @@ Work Well        |      √       |     √        |     √
 GDL能满足不同软件开发水平的人使用。对于初学者，您不需要很高的Arduino或软件开发经验。
 就可以实现炫酷的显示效果。随时在公共实验室或github上的Wiki页面上发布您的软件问题。
 
-1.下载Arduino IDE<br>
-1.从[github](网址)下载GDL代码<br>
-1.使用`Arduino IDE`从下载的文件中打开“basicTest.ino”<br>
-1.连接您的`Arduino Uno`开发板<br>
-1.选择工具>板子：`Arduino Uno`和工具>端口：选择你的Arduino开发板<br>
-1.单击“验证”，然后将软件“上传”到您的开发板上<br>
+1. 下载Arduino IDE。<br>
+1. 从[github](网址)下载GDL代码。<br>
+1. 使用`Arduino IDE`从下载的文件中打开“basicTest.ino”。<br>
+1. 连接您的`Arduino Uno`开发板。<br>
+1. 选择工具>板子：`Arduino Uno`和工具>端口：选择你的Arduino开发板。<br>
+1. 单击“验证”，然后将软件“上传”到您的开发板上。<br>
 
 ## 教学
-这是一个有120分钟的教学视频；旨在让初学者快速入门。
+这是一个有120分钟时长的教学视频；旨在让初学者快速入门。
 
 1. GDL简介----5分钟
 
@@ -126,11 +126,11 @@ GDL能满足不同软件开发水平的人使用。对于初学者，您不需�
 
 ## 如何贡献：
 请参考本[教程](https://help.github.com/articles/creating-a-pull-request/)。<br>
-1.分叉存储库！<br>
-1.创建功能分支：`git checkout -b my-new-feature`<br>
-1.提交更改：`git commit -am`'添加一些功能'<br>
-1.推送到分支：`git push origin my-new-feature`<br>
-1.提交拉取请求<br>
+1. 分叉存储库！<br>
+1. 创建功能分支：`git checkout -b my-new-feature`<br>
+1. 提交更改：`git commit -am`'添加一些功能'<br>
+1. 推送到分支：`git push origin my-new-feature`<br>
+1. 提交拉取请求<br>
 
 ## 关于分行
 **master**是当前的稳定版本。
